@@ -1,2 +1,2 @@
 # demo_git
-test git project
+  leçon git acquisition
